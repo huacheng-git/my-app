@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackJsonpdemo_0_1_0"]=("undefined"!==typeof self?self:this)["webpackJsonpdemo_0_1_0"]||[]).push([[7],{de56:function(e,o){const l=[{typeLabel:{"demo.test":"{count, plural,\n  one { Demo }\n  other { Demos }\n}"},demo:{tabs:{general:"基础信息"},field:"Other Fields",master:{label:"master",placeholder:"placeholder"}}}];e.exports=l.length<=1?l[0]:l}}]);
+//# sourceMappingURL=demo-0.1.0.umd.min.7.js.map

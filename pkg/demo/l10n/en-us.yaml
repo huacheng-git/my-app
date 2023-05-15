@@ -1,0 +1,16 @@
+typeLabel:
+  demo.test: |-
+    {count, plural,
+      one { Demo }
+      other { Demos }
+    }
+demo:
+  tabs:
+    general: Basics
+  field: Other Fields
+  master:
+    label: master
+    placeholder: placeholder
+
+
+# 覆盖验证

@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackJsonpdemo_0_1_0"]=("undefined"!==typeof self?self:this)["webpackJsonpdemo_0_1_0"]||[]).push([[6],{"1bb6":function(e,s){const o=[{typeLabel:{"demo.test":"{count, plural,\n  one { Demo }\n  other { Demos }\n}"},demo:{tabs:{general:"Basics"},field:"Other Fields",master:{label:"master",placeholder:"placeholder"}}}];e.exports=o.length<=1?o[0]:o}}]);
+//# sourceMappingURL=demo-0.1.0.umd.min.6.js.map

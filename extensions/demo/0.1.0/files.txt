@@ -1,0 +1,17 @@
+plugin/demo-0.1.0.umd.min.6.js
+plugin/demo-0.1.0.umd.min.6.js.map
+plugin/demo-0.1.0.umd.min.7.js
+plugin/demo-0.1.0.umd.min.7.js.map
+plugin/demo-0.1.0.umd.min.edit.js
+plugin/demo-0.1.0.umd.min.edit.js.map
+plugin/demo-0.1.0.umd.min.js
+plugin/demo-0.1.0.umd.min.js.map
+plugin/demo-0.1.0.umd.min.list.js
+plugin/demo-0.1.0.umd.min.list.js.map
+plugin/demo-0.1.0.umd.min.vendors~edit.js
+plugin/demo-0.1.0.umd.min.vendors~edit.js.map
+plugin/demo-0.1.0.umd.min.vendors~edit~list.js
+plugin/demo-0.1.0.umd.min.vendors~edit~list.js.map
+plugin/demo-0.1.0.umd.min.vendors~list.js
+plugin/demo-0.1.0.umd.min.vendors~list.js.map
+plugin/package.json
