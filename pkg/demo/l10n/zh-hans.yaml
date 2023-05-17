@@ -11,4 +11,7 @@ demo:
   master:
     label: master
     placeholder: placeholder
+  image:
+    label: image
+    placeholder: placeholder
 

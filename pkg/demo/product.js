@@ -22,5 +22,5 @@ export function init($plugin, store) {
     ],
   });
 
-  basicType([PRODUCT_NAME], 'cluster');
+  basicType([PRODUCT_NAME, 'test.pandaria.io.mysql'], 'cluster');
 }
